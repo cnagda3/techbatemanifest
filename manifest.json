@@ -1,11 +1,11 @@
 {
-  "name": "Tech Blog India",
+  "name": "Hindi tech Bate",
   "short_name": "techbate",
-  "start_url": "http://technicbate.blogspot.com/",
+  "start_url": "hinditechbate.in",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Tech Blog India ब्लॉग है जो hindime help भी करती है kaise kare, kya hai, hindime tricks.",
+  "description": "Hindi Tech bate -hindime help,kaise kare, kya hai, hindime, blogging, google photo, bank khata, web server, net banking, free hosting ki jnakari.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-i-XdzPbfiLQ/X6n6kCS66wI/AAAAAAAABnk/pE9PY57tMKgVQ2mi7ZIsFBvZIS3BckLAQCLcBGAsYHQ/s48/android-chrome-192x192.png",
     "sizes": "48x48",
